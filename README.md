@@ -10,8 +10,8 @@ Research Highlights
 ----------------
 
 * Base boosting: a new [approach][1] to transferring prior domain knowledge to gradient boosting.
-* Charged string languages: new [two-string][2] and [four-string][3] pictorial languages
-for quantum information, and an [application][4] in quantum teleportation.
+* Charged string languages: new [two-string][2] and [four-string][3] picture languages
+for quantum information with an [application][4] in quantum teleportation.
 
 [1]: https://arxiv.org/abs/2005.06194 "Boosting on the shoulders of giants in quantum device calibration"
 [2]: https://link.springer.com/article/10.1007/s11425-017-9207-3 "Holographic software for quantum networks"
