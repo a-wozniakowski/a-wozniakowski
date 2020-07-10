@@ -1,5 +1,5 @@
-### Alex Wozniakowski--@a-wozniakowski
-=========================================
+Alex Wozniakowski--@a-wozniakowski
+----------------
 
 I am a PHD candidate in mathematics at [Nanyang Technological University](https://www.ntu.edu.sg/),
 who is interested in designing and deploying machine learning systems. I am also a member of the
