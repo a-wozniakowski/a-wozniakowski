@@ -1,9 +1,9 @@
 About
 ----------------
 
-I am a PHD candidate in mathematics at [Nanyang Technological University](https://spms.ntu.edu.sg/),
+I am a PHD candidate in [mathematics](https://spms.ntu.edu.sg/) at Nanyang Technological University,
 who works in machine learning and applied mathematics. I am also an original member of the
-Mathematical Picture Language Project at [Harvard University](https://mathpicture.fas.harvard.edu/). 
+[Mathematical Picture Language Project](https://mathpicture.fas.harvard.edu/) at Harvard University. 
 
 
 Research Highlights
