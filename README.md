@@ -1,23 +1,23 @@
 About
 ----------------
 
-I am a PhD candidate in [mathematics](https://spms.ntu.edu.sg/) at Nanyang
-Technological University (NTU), who works in machine learning and applied
-mathematics. I am also an original member of the
+I am a PhD candidate in [mathematics](https://www.ntu.edu.sg/spms) at Nanyang
+Technological University (NTU), who works in machine learning, statistics, and
+applied mathematics. I am also an original member of the
 [Mathematical Picture Language Project](https://mathpicture.fas.harvard.edu/)
 at Harvard University.
 
 Research Highlights
 ----------------
 
-* Base boosting: a new [approach][1] to human-to-machine transfer learning,
-  which eases the burden of incorporating prior domain knowledge into gradient
-  boosting; see the Scikit-physlearn [repository][2] and [documentation][3].
+* A new formulation of gradient boosting: endows the [gradient boosting][1] methodology
+  with the ability to improve upon prior regression predictions; see the
+  Scikit-physlearn [repository][2] and its [documentation][3].
 * Charged string languages: new [two-string][4] and [four-string][5] picture
   languages for quantum information with an [application][6] in quantum
   teleportation.
 
-[1]: https://arxiv.org/abs/2005.06194 "Boosting on the shoulders of giants in quantum device calibration"
+[1]: https://iopscience.iop.org/article/10.1088/2632-2153/ac1ee9 "A new formulation of gradient boosting"
 [2]: https://github.com/a-wozniakowski/scikit-physlearn
 [3]: https://scikit-physlearn.readthedocs.io/en/latest/
 [4]: https://link.springer.com/article/10.1007/s11425-017-9207-3 "Holographic software for quantum networks"
