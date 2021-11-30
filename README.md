@@ -3,7 +3,7 @@ About
 
 I am a PhD candidate in [mathematics](https://www.ntu.edu.sg/spms) at Nanyang
 Technological University (NTU), who works in machine learning, statistics, and
-applied mathematics. I am also an original member of the
+applied and computational mathematics. I am also an original member of the
 [Mathematical Picture Language Project](https://mathpicture.fas.harvard.edu/)
 at Harvard University.
 
