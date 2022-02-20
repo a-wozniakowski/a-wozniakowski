@@ -27,10 +27,10 @@ Research Highlights
   picture language differs from this paradigm in that it enables us to think
   about the science of quantum information and computation in either an algebraic
   or a topological way such that there exists a bidirectional dictionary between
-  our two modes of thought. To this end, the [two-string][4] picture language
+  our two modes of thought. To this end, the [two-string][4], picture language
   establishes a link between the theory of planar para algebras and the science
   of quantum information and computation, and it yields an [application][5] in
-  quantum teleportation. Moreover, the [four-string][6] picture language extends
+  quantum teleportation. Moreover, the [four-string][6], picture language extends
   the paradigm to three dimensions.
 
 [1]: https://iopscience.iop.org/article/10.1088/2632-2153/ac1ee9 "A new formulation of gradient boosting"
