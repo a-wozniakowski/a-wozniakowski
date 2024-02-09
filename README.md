@@ -17,7 +17,7 @@ Research Highlights
   mathematics, machine learning, statistics, and science. Yet,
   the traditional methodology neglects the means to explicitly
   incorporate prior knowledge into the fit of an additive model.
-  A [reformulation of additive models][1] introduces an inductive
+* A [reformulation of additive models][1] introduces an inductive
   bias that enables additive models and their fitting algorithms
   to acquire, and leverage, prior knowledge in the form of
   predictions from a regression model.
