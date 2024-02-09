@@ -4,7 +4,7 @@ About
 Currently, I am a software engineer at Apple. Previously, I completed a
 PhD in [mathematics](https://www.ntu.edu.sg/spms) at Nanyang
 Technological University (NTU) with a dissertation on a
-[reformulation of additive models](https://hdl.handle.net/10356/163311).
+[reformulation of additive models](https://hdl.handle.net/10356/163311). 
 Moreover, I am an original member of the 
 [Mathematical Picture Language Project](https://mathpicture.fas.harvard.edu/)
 at Harvard University.
@@ -13,18 +13,19 @@ Research Highlights
 ----------------
 
 * Additive models and their fitting algorithms play a pivotal role
-  in the history and development of applied mathematics, machine 
-  learning, statistics, and science. Yet, the traditional methodology
-  neglects the means to explicitly incorporate prior knowledge into the
-  fit of an additive model. A [reformulation of additive models][1]
-  introduces an inductive bias that enables additive models and their
-  fitting algorithms to acquire, and leverage, prior knowledge in the
-  form of predictions from a regression model. 
-* Empirically, this approach to transfer learning outperformed the most
-  widely applied gradient boosting libraries, as well as Google’s
-  cutting-edge quantum physics model, on several data sets; see
-  the [repo][2] and [documentation][3] for the implementation of
-  [base boosting][4].
+  in the history and development of applied and computational
+  mathematics, machine learning, statistics, and science. Yet,
+  the traditional methodology neglects the means to explicitly
+  incorporate prior knowledge into the fit of an additive model.
+  A [reformulation of additive models][1] introduces an inductive
+  bias that enables additive models and their fitting algorithms
+  to acquire, and leverage, prior knowledge in the form of
+  predictions from a regression model.
+* Empirically, this approach to transfer learning outperformed the
+  most widely applied gradient boosting libraries, as well as
+  Google’s cutting-edge quantum physics model, on several data
+  sets; see the [repository][2] and [documentation][3], as well
+  as the [dissertation][1] and base boosting [paper][4].
 * The aforementioned approach arose in the context of superconducting
   quantum device calibration, which is an application that belongs
   to the science of quantum information and computation. The latter
@@ -37,8 +38,8 @@ Research Highlights
   it enables us to think about the science of quantum information and
   computation in either an algebraic or a topological way such that
   there exists a bidirectional dictionary between our two modes of thought;
-  see the [two-string][5] and [four-string][6] languages, as well as the
-  [teleportation protocol][7].
+  see the [two-string][5] and [four-string][6] picture languages, as well
+  as the [teleportation protocol][7].
 
 [1]: https://hdl.handle.net/10356/163311 "A reformulation of additive models"
 [2]: https://github.com/a-wozniakowski/scikit-physlearn
