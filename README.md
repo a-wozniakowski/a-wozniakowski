@@ -14,10 +14,8 @@ Research Highlights
 
 * Additive models and their fitting algorithms play a pivotal role
   in the history and development of applied and computational
-  mathematics, machine learning, statistics, and science. Yet,
-  the traditional methodology neglects the means to explicitly
-  incorporate prior knowledge into the fit of an additive model.
-* A [reformulation of additive models][1] introduces an inductive
+  mathematics, machine learning, statistics, and science. A
+  [reformulation of additive models][1] introduces an inductive
   bias that enables additive models and their fitting algorithms
   to acquire, and leverage, prior knowledge in the form of
   predictions from a regression model.
@@ -25,21 +23,14 @@ Research Highlights
   most widely applied gradient boosting libraries, as well as
   Google’s cutting-edge quantum physics model, on several data
   sets; see the [repository][2] and [documentation][3], as well
-  as the [dissertation][1] and base boosting [paper][4].
-* The aforementioned approach arose in the context of superconducting
-  quantum device calibration, which is an application that belongs
-  to the science of quantum information and computation. The latter
-  is a field of science, which many think about algebraically in terms
-  of modular, quantum circuit elements. That is, they tend to draw planar
-  pictures of circuitry, which represent quantum objects, such as qudits
-  and their transformations. Then, they compose these pictures of
-  circuitry in an algebraic way to create more elaborate quantum objects.
-* The charged string, picture language differs from this paradigm in that
-  it enables us to think about the science of quantum information and
-  computation in either an algebraic or a topological way such that
-  there exists a bidirectional dictionary between our two modes of thought;
-  see the [two-string][5] and [four-string][6] picture languages, as well
-  as the [teleportation protocol][7].
+  as the [dissertation][1] and [base boosting paper][4].
+* Also, on a different front, charged string, picture languages
+  establish a link between the theory of planar para algebras,
+  which combines insights from the mathematics of subfactor theory
+  and planar algebras with the mathematical physics of parafermions,
+  and the science of quantum information and computation; see the
+  [dissertation][1], [two-string paper][5], [four-string paper][6],
+  and the [teleportation protocol paper][7].
 
 [1]: https://hdl.handle.net/10356/163311 "A reformulation of additive models"
 [2]: https://github.com/a-wozniakowski/scikit-physlearn
