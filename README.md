@@ -1,9 +1,9 @@
 About
 ----------------
 
-I am a PhD candidate in [mathematics](https://www.ntu.edu.sg/spms) at Nanyang
-Technological University (NTU), who works in machine learning, statistics, and
-applied and computational mathematics. I am also an original member of the
+Currently, I am a software engineer at Apple. Previously, I completed my
+doctoral studies in [mathematics](https://www.ntu.edu.sg/spms) at Nanyang
+Technological University (NTU); and I am an original member of the
 [Mathematical Picture Language Project](https://mathpicture.fas.harvard.edu/)
 at Harvard University.
 
