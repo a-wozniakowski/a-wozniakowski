@@ -23,14 +23,14 @@ Research Highlights
   most widely applied gradient boosting libraries, as well as
   Google’s cutting-edge quantum physics model, on several data
   sets; see the [repository][2] and [documentation][3], as well
-  as the [dissertation][1] and base boosting [paper][4].
+  as the [dissertation][1] and [base boosting paper][4].
 * Also, on a different front, charged string, picture languages
   establish a link between the theory of planar para algebras,
   which combines insights from the mathematics of subfactor theory
   and planar algebras with the mathematical physics of parafermions,
   and the science of quantum information and computation; see the
-  [two-string][5] and [four-string][6] picture languages, as well
-  as the [teleportation protocol][7].
+  [dissertation][1], [two-string paper][5], [four-string paper][6],
+  and the [teleportation protocol paper][7].
 
 [1]: https://hdl.handle.net/10356/163311 "A reformulation of additive models"
 [2]: https://github.com/a-wozniakowski/scikit-physlearn
