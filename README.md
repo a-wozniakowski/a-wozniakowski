@@ -19,12 +19,12 @@ Research Highlights
   additive models and their fitting algorithms to acquire, and
   leverage, prior knowledge in the form of predictions from a
   regression model.
-* Numerical experiments on several data sets demonstrate the
-  viability of this approach to transfer learning, as it
-  outperformed the most widely applied gradient boosting
-  libraries and Google’s cutting-edge quantum physics model;
-  see the [dissertation][1], [base boosting paper][2],
-  [repository][3], and [documentation][4].
+* Empirically, this approach to transfer learning outperformed
+  the most widely applied gradient boosting libraries on several
+  data sets, as well as Google's cutting-edge quantum physics
+  model on a quantum device data set; see the [dissertation][1],
+  [base boosting paper][2], [repository][3], and
+  [documentation][4].
 * Also, on a different front, charged string picture languages
   establish a link between the theory of planar para algebras,
   which combines insights from the mathematics of subfactor theory
