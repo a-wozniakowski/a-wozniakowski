@@ -1,7 +1,7 @@
 ## About
 
 Currently, I'm a software engineer at Apple. Previously, I obtained my
-PhD in mathematics from Nanyang Technological University (NTU) in 2022.
+PhD in mathematics from Nanyang Technological University.
 
 You can find more details about me through the following links:
 
