@@ -1,7 +1,9 @@
 ## About
 
-Currently, I'm a software engineer at Apple. You can find more details about
-me through the following links:
+Currently, I'm a software engineer at Apple. Previously, I obtained my
+PhD in mathematics from Nanyang Technological University (NTU) in 2022.
+
+You can find more details about me through the following links:
 
 - [Personal website](https://a-wozniakowski.github.io/)
   - [Blog](https://a-wozniakowski.github.io/blog/)
